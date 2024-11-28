@@ -1,0 +1,52 @@
+{
+  "name": "subaru",
+  "displayName": "Subaru Theme",
+  "description": "A set of colors schemes that are inspired to Next.js & Vercel's docs",
+  "publisher": "fellipeutaka",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fellipeutaka/subaru.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fellipeutaka/subaru/issues",
+    "email": "fellipeutaka@gmail.com"
+  },
+  "author": {
+    "email": "fellipeutaka@gmail.com",
+    "name": "Fellipe Utaka",
+    "url": "https://fellipeutaka.vercel.app"
+  },
+  "keywords": [
+    "theme",
+    "vercel",
+    "dark",
+    "light",
+    "italics",
+    "anime",
+    "subaru",
+    "re:zero"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vercel (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      },
+      {
+        "label": "Vercel (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      }
+    ]
+  }
+}
