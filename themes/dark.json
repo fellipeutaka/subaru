@@ -210,7 +210,7 @@
     "editorHoverWidget.background": "#000000",
     "editorHoverWidget.foreground": "#a1a1a1"
   },
-  "settings": [
+  "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment", "string.comment"],
       "settings": {
