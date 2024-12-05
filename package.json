@@ -38,12 +38,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vercel (Light)",
+        "label": "Subaru (Light)",
         "uiTheme": "vs",
         "path": "./themes/light.json"
       },
       {
-        "label": "Vercel (Dark)",
+        "label": "Subaru (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/dark.json"
       }
