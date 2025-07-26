@@ -3,7 +3,7 @@
   "displayName": "Subaru Theme",
   "description": "A set of colors schemes that are inspired to Next.js & Vercel's docs",
   "publisher": "fellipeutaka",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
